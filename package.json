@@ -1,0 +1,13 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "- Zoe\r - Detlefsen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
