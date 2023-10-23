@@ -26,6 +26,7 @@ function App() {
   return (
     <div>
       <h1>Zoe DevOps Exercise</h1>
+      <h2>George Brown College</h2>
     </div>
   );
 }
